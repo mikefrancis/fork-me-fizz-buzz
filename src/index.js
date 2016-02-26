@@ -1,3 +1,3 @@
-module.exports = function(num) {
-
+export default function(num) {
+    
 };
